@@ -1,0 +1,6 @@
+{
+  "name": "oxm-preface",
+  "version": "1.0.0",
+  "apiDependencies": ["banner"]
+}
+

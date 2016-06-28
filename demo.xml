@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="demo.xsl"?>
+<root>
+  <env>
+    <domain>local</domain>
+  </env>
+  <data>
+    <banner><i><img>//momofox.com/img/fox.jpg</img><href>//momofox.com/img/fox.jpg</href></i><i><img>//momofox.com/img/fox.jpg</img><href>//momofox.com/img/fox.jpg</href></i></banner>
+  </data>
+
+</root>
