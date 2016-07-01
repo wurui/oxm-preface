@@ -3,6 +3,7 @@
     <xsl:template match="/root" name="oxm-preface">
     <!-- className 'J_OXMod' required  -->
     <div class="J_OXMod oxmod-oxm-preface" ox-mod="oxm-preface">
+        <button type="button" class="J_btnX btn-x">Close</button>
 
         <xsl:if test="count(data/banner/i) &gt; 0">
             <!--
