@@ -1,11 +1,12 @@
 .oxmod-oxm-preface {
   /* CSS */
+  height: 100%;
+  width: 100%;
+  position: fixed;
 }
 .oxmod-oxm-preface img {
   height: 100%;
   width: 100%;
-  position: fixed;
-  z-index: 100;
 }
 .oxmod-oxm-preface .btn-x {
   z-index: 101;
